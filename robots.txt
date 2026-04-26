@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://mag-group-scaffolding.vercel.app/sitemap.xml
+
+# Block common junk
+Disallow: /.vercel/
